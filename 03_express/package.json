@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-basic-01",
+  "name": "01_express",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,10 +7,8 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "keywords": [
-    "node"
-  ],
-  "author": "mahek",
+  "type": "module",
+  "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
